@@ -1,0 +1,3 @@
+DOMAIN-SUFFIX,awsapps.com
+DOMAIN-SUFFIX,amazonaws.com
+DOMAIN-SUFFIX,aws.amazon.com
