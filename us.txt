@@ -38,3 +38,4 @@ DOMAIN-SUFFIX,oribi.io
 # misc
 DOMAIN-SUFFIX,godaddy.com
 DOMAIN-SUFFIX,linuxfoundation.org
+DOMAIN-SUFFIX,leetcode.com
