@@ -1,0 +1,3 @@
+PROCESS-NAME,Signal
+PROCESS-NAME,Signal Helper (Renderer)
+DOMAIN-SUFFIX,signal.org
