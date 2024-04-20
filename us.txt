@@ -1,3 +1,6 @@
+# US Gov
+DOMAIN-SUFFIX,uscis.gov
+
 # finanicals
 DOMAIN-SUFFIX,bac-assets.com
 DOMAIN-SUFFIX,bankofamerica.com
@@ -31,3 +34,7 @@ DOMAIN-SUFFIX,linkedinmobileapp.com
 DOMAIN-SUFFIX,linkedin.qtlcdn.com
 DOMAIN-SUFFIX,lnkd.in
 DOMAIN-SUFFIX,oribi.io
+#
+# misc
+DOMAIN-SUFFIX,godaddy.com
+DOMAIN-SUFFIX,linuxfoundation.org
