@@ -1,5 +1,11 @@
+# finanicals
 DOMAIN-SUFFIX,bac-assets.com
 DOMAIN-SUFFIX,bankofamerica.com
 DOMAIN-SUFFIX,interactivebrokers.com
+# partners
 DOMAIN-SUFFIX,formi9.com
+# customers
+DOMAIN-SUFFIX,dunkinfranchising.com
+DOMAIN-SUFFIX,.dunkindonuts.com
+# news
 DOMAIN-SUFFIX,ft.com
