@@ -2,6 +2,8 @@
 DOMAIN-SUFFIX,atlassian.net
 DOMAIN-SUFFIX,notion.so
 DOMAIN-SUFFIX,okta.com
+DOMAIN-SUFFIX,auth0.com,JP
+DOMAIN-SUFFIX,whimsical.com,JP
 
 # US Gov
 DOMAIN-SUFFIX,uscis.gov
