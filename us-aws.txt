@@ -4,3 +4,4 @@ DOMAIN-SUFFIX,aws.amazon.com
 DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,aws.a2z.com
 DOMAIN-SUFFIX,awsstatic.com
+DOMAIN-SUFFIX,aws.dev
