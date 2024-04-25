@@ -1,0 +1,8 @@
+PROCESS-NAME,Minecraft Launcher
+PROCESS-NAME,Minecraft
+PROCESS-NAME,nativeUpdater
+DOMAIN-SUFFIX,mojang.com
+DOMAIN-SUFFIX,xboxlive.com
+DOMAIN-SUFFIX,minecraft-services.net
+DOMAIN-SUFFIX,minecraft.net
+DOMAIN-SUFFIX,mojang.com
