@@ -1,3 +1,8 @@
+# daily work
+DOMAIN-SUFFIX,atlassian.net
+DOMAIN-SUFFIX,notion.so
+DOMAIN-SUFFIX,okta.com
+
 # US Gov
 DOMAIN-SUFFIX,uscis.gov
 
