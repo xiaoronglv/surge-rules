@@ -10,10 +10,6 @@ DOMAIN-SUFFIX,whimsical.com,JP
 # US Gov
 DOMAIN-SUFFIX,uscis.gov
 
-# finanicals
-DOMAIN-SUFFIX,bac-assets.com
-DOMAIN-SUFFIX,bankofamerica.com
-DOMAIN-SUFFIX,interactivebrokers.com
 #
 #
 # partners
