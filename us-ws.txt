@@ -3,8 +3,9 @@ DOMAIN-SUFFIX,atlassian.net
 DOMAIN-SUFFIX,atlassian.com
 DOMAIN-SUFFIX,notion.so
 DOMAIN-SUFFIX,okta.com
-DOMAIN-SUFFIX,auth0.com,JP
-DOMAIN-SUFFIX,whimsical.com,JP
+DOMAIN-SUFFIX,auth0.com
+DOMAIN-SUFFIX,whimsical.com
+DOMAIN-SUFFIX,apidock.com
 
 
 # US Gov
