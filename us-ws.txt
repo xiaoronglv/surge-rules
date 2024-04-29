@@ -15,9 +15,10 @@ DOMAIN-SUFFIX,uscis.gov
 #
 # partners
 DOMAIN-SUFFIX,formi9.com
-DOMAIN-SUFFIX,twilio.com,US
-DOMAIN-SUFFIX,paychex.com,US
-DOMAIN-SUFFIX,paylocity.com,US
+DOMAIN-SUFFIX,twilio.com
+DOMAIN-SUFFIX,paychex.com
+DOMAIN-SUFFIX,paylocity.com
+DOMAIN-SUFFIX,checkhq.com
 # 
 #
 # customers
