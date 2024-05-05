@@ -1,4 +1,5 @@
 PROCESS-NAME,Minecraft Launcher
+PROCESS-NAME,launcher-Helper
 PROCESS-NAME,Minecraft
 PROCESS-NAME,nativeUpdater
 DOMAIN-SUFFIX,mojang.com
