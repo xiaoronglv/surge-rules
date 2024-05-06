@@ -30,6 +30,8 @@ DOMAIN-SUFFIX,twilio.com
 DOMAIN-SUFFIX,paychex.com
 DOMAIN-SUFFIX,paylocity.com
 DOMAIN-SUFFIX,checkhq.com
+DOMAIN-SUFFIX,indeed.com
+
 
 # customers
 DOMAIN-SUFFIX,dunkinfranchising.com
