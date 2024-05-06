@@ -1,1 +1,9 @@
 DOMAIN-SUFFIX,live.com
+PROCESS-NAME,Microsoft OneNote
+PROCESS-NAME,Microsoft Outlook
+DOMAIN-SUFFIX,microsoft.com
+DOMAIN-SUFFIX,office.com
+DOMAIN-SUFFIX,onenote.com
+DOMAIN-SUFFIX,live.net
+DOMAIN-SUFFIX,live.com
+DOMAIN-SUFFIX,msn.com
