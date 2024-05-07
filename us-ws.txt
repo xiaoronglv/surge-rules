@@ -1,4 +1,4 @@
-# Daily work
+# Office Apps
 DOMAIN-SUFFIX,atlassian.net
 DOMAIN-SUFFIX,atlassian.com
 DOMAIN-SUFFIX,notion.so
@@ -6,6 +6,7 @@ DOMAIN-SUFFIX,okta.com
 DOMAIN-SUFFIX,auth0.com
 DOMAIN-SUFFIX,whimsical.com
 DOMAIN-SUFFIX,apidock.com
+DOMAIN-SUFFIX,screencast.com
 
 # Work Apps
 PROCESS-NAME,Notion
