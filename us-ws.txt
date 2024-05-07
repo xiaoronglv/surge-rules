@@ -7,6 +7,7 @@ DOMAIN-SUFFIX,auth0.com
 DOMAIN-SUFFIX,whimsical.com
 DOMAIN-SUFFIX,apidock.com
 DOMAIN-SUFFIX,screencast.com
+DOMAIN-SUFFIX,techsmith.com
 
 # Work Apps
 PROCESS-NAME,Notion
