@@ -33,6 +33,7 @@ DOMAIN-SUFFIX,paychex.com
 DOMAIN-SUFFIX,paylocity.com
 DOMAIN-SUFFIX,checkhq.com
 DOMAIN-SUFFIX,indeed.com
+DOMAIN-SUFFIX,chowbus.com
 
 
 # customers
