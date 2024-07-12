@@ -33,13 +33,21 @@ DOMAIN-SUFFIX,paychex.com
 DOMAIN-SUFFIX,paylocity.com
 DOMAIN-SUFFIX,checkhq.com
 DOMAIN-SUFFIX,indeed.com
+
+# HRIS Products
 DOMAIN-SUFFIX,chowbus.com
 DOMAIN-SUFFIX,joinhomebase.com
-
+DOMAIN-SUFFIX,novo.co
+DOMAIN-SUFFIX,directshifts.com
+DOMAIN-SUFFIX,joinhomebase.com
+DOMAIN-SUFFIX,openphone.com
+DOMAIN-SUFFIX,wheniwork.com
 
 # customers
 DOMAIN-SUFFIX,dunkinfranchising.com
-DOMAIN-SUFFIX,.dunkindonuts.com
+DOMAIN-SUFFIX,dunkindonuts.com
+
+
 
 # news
 DOMAIN-SUFFIX,ft.com
