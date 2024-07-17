@@ -1,4 +1,4 @@
-# Office Apps
+# Office Website
 DOMAIN-SUFFIX,atlassian.net
 DOMAIN-SUFFIX,atlassian.com
 DOMAIN-SUFFIX,notion.so
@@ -9,11 +9,9 @@ DOMAIN-SUFFIX,apidock.com
 DOMAIN-SUFFIX,screencast.com
 DOMAIN-SUFFIX,techsmith.com
 
-# Work Apps
+# Office Apps
 PROCESS-NAME,Notion
 PROCESS-NAME,Notion Helper
-PROCESS-NAME,Day One
-PROCESS-NAME,Anki
 PROCESS-NAME,Sublime Text
 PROCESS-NAME,1Password
 
@@ -29,8 +27,6 @@ DOMAIN-SUFFIX,leetcode.com
 # Partners
 DOMAIN-SUFFIX,formi9.com
 DOMAIN-SUFFIX,twilio.com
-DOMAIN-SUFFIX,paychex.com
-DOMAIN-SUFFIX,paylocity.com
 DOMAIN-SUFFIX,checkhq.com
 DOMAIN-SUFFIX,indeed.com
 
@@ -42,15 +38,12 @@ DOMAIN-SUFFIX,directshifts.com
 DOMAIN-SUFFIX,joinhomebase.com
 DOMAIN-SUFFIX,openphone.com
 DOMAIN-SUFFIX,wheniwork.com
+DOMAIN-SUFFIX,paychex.com
+DOMAIN-SUFFIX,paylocity.com
 
-# customers
+# Customers
 DOMAIN-SUFFIX,dunkinfranchising.com
 DOMAIN-SUFFIX,dunkindonuts.com
-
-
-
-# news
-DOMAIN-SUFFIX,ft.com
 
 
 # linkedin
