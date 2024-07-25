@@ -1,1 +1,4 @@
 DOMAIN-SUFFIX,kandji.io
+
+# Hiring Tool
+DOMAIN-SUFFIX,goodtime.io
