@@ -40,6 +40,7 @@ DOMAIN-SUFFIX,openphone.com
 DOMAIN-SUFFIX,wheniwork.com
 DOMAIN-SUFFIX,paychex.com
 DOMAIN-SUFFIX,paylocity.com
+DOMAIN-SUFFIX,www.schedulefly.com
 
 # Customers
 DOMAIN-SUFFIX,dunkinfranchising.com
