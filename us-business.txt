@@ -47,6 +47,7 @@ DOMAIN-SUFFIX,expirationreminder.net
 DOMAIN-SUFFIX,dunkinfranchising.com
 DOMAIN-SUFFIX,dunkindonuts.com
 DOMAIN-SUFFIX,ihop.com
+DOMAIN-SUFFIX,chick-fil-a.com
 
 
 # linkedin
