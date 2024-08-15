@@ -46,6 +46,7 @@ DOMAIN-SUFFIX,expirationreminder.net
 # Customers
 DOMAIN-SUFFIX,dunkinfranchising.com
 DOMAIN-SUFFIX,dunkindonuts.com
+DOMAIN-SUFFIX,ihop.com
 
 
 # linkedin
