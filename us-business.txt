@@ -48,7 +48,20 @@ DOMAIN-SUFFIX,dunkinfranchising.com
 DOMAIN-SUFFIX,dunkindonuts.com
 DOMAIN-SUFFIX,ihop.com
 DOMAIN-SUFFIX,chick-fil-a.com
-
+DOMAIN-SUFFIX,culvers.com
+DOMAIN-SUFFIX,jimmyjohnsfranchising.com
+DOMAIN-SUFFIX,zaxbysfranchising.com
+DOMAIN-SUFFIX,bk.com
+DOMAIN-SUFFIX,hardeesfranchising.com
+DOMAIN-SUFFIX,bojangles.com
+DOMAIN-SUFFIX,dunkinfranchising.com
+DOMAIN-SUFFIX,mooyahfranchise.com
+DOMAIN-SUFFIX,smoothiekingfranchise.com
+DOMAIN-SUFFIX,deliverthat.com
+DOMAIN-SUFFIX,pieology.com
+DOMAIN-SUFFIX,chickensaladchick.com
+DOMAIN-SUFFIX,aspenhealthcare.co.uk
+DOMAIN-SUFFIX,strausfamilycreamery.com
 
 # linkedin
 DOMAIN-SUFFIX,bizographics.com
