@@ -1,1 +1,2 @@
-
+PROCESS-NAME,ssh
+PROCESS-NAME,session-manager-plugin
