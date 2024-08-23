@@ -2,3 +2,4 @@ PROCESS-NAME,ssh
 PROCESS-NAME,session-manager-plugin
 DOMAIN-SUFFIX,ssmmessages.us-west-2.amazonaws.com
 DOMAIN-SUFFIX,ssm.us-west-2.amazonaws.com
+DOMAIN-SUFFIX,ec2-instance-connect.us-west-2.amazonaws.com
