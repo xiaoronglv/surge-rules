@@ -79,4 +79,5 @@ DOMAIN-SUFFIX,oribi.io
 # Meta API
 DOMAIN-SUFFIX, meta.ai
 
-
+# Fintech
+DOMAIN-SUFFIX,stripe.com
