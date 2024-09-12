@@ -81,3 +81,4 @@ DOMAIN-SUFFIX, meta.ai
 
 # Fintech
 DOMAIN-SUFFIX,stripe.com
+DOMAIN-SUFFIX,stripe.training
