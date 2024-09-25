@@ -1,3 +1,7 @@
+# Source 1: Ryan's Rule
+PROCESS-NAME,ChatGPT
+
+# Source 2:
 # NAME: OpenAI
 # REPO: https://github.com/blackmatrix7/ios_rule_script
 
