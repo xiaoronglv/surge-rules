@@ -1,1 +1,4 @@
-
+DOMAIN-SUFFIX,x.com
+DOMAIN-SUFFIX,twitter.com
+DOMAIN-SUFFIX,youtube.com
+DOMAIN-SUFFIX,weibo.com
