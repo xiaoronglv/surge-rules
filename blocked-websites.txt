@@ -1,0 +1,8 @@
+# Block 标题党
+DOMAIN-SUFFIX,sohu.com
+
+## Block Porn websites
+DOMAIN-SUFFIX,pornhub.com,Proxy
+DOMAIN-SUFFIX,xvideos.com,Proxy
+DOMAIN-SUFFIX,dmm.co.jp
+
