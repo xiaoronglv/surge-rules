@@ -17,6 +17,7 @@ PROCESS-NAME,1Password
 
 # US Gov
 DOMAIN-SUFFIX,uscis.gov
+DOMAIN-SUFFIX,bls.gov
 
 # Development Websites
 DOMAIN-SUFFIX,godaddy.com
