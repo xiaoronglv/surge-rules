@@ -13,7 +13,6 @@ DOMAIN-SUFFIX,techsmith.com
 PROCESS-NAME,Notion
 PROCESS-NAME,Notion Helper
 PROCESS-NAME,Sublime Text
-PROCESS-NAME,1Password
 
 # US Gov
 DOMAIN-SUFFIX,uscis.gov
