@@ -62,6 +62,7 @@ DOMAIN-SUFFIX,pieology.com
 DOMAIN-SUFFIX,chickensaladchick.com
 DOMAIN-SUFFIX,aspenhealthcare.co.uk
 DOMAIN-SUFFIX,strausfamilycreamery.com
+DOMAIN-SUFFIX,gtcinemas.com
 
 # linkedin
 DOMAIN-SUFFIX,bizographics.com
