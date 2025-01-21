@@ -10,3 +10,5 @@ PROCESS-NAME,DingTalk
 PROCESS-NAME,SolsticeClient
 PROCESS-NAME,Wechat
 PROCESS-NAME,微信
+PROCESS-NAME,Synergy
+PROCESS-NAME,synergy-core
