@@ -1,0 +1,2 @@
+DOMAIN-SUFFIX,music.youtube.com
+PROCESS-NAME,YouTube Music Helper
