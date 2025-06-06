@@ -3,6 +3,8 @@
 # Source 1: Ryan's Rule
 PROCESS-NAME,ChatGPT
 PROCESS-NAME,Noi Helper
+PROCESS-NAME,Claude Helper
+PROCESS-NAME,Poe Helper
 
 
 # Source 2:
