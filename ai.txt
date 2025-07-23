@@ -6,6 +6,8 @@ PROCESS-NAME,Noi Helper
 PROCESS-NAME,Claude Helper
 PROCESS-NAME,Poe Helper
 
+# Gemini
+DOMAIN-SUFFIX,gemini.google.com
 
 # Source 2:
 # NAME: OpenAI
