@@ -1,1 +1,2 @@
 DOMAIN-SUFFIX,pearsonpte.com
+DOMAIN-SUFFIX,qq.com
