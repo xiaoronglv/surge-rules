@@ -5,3 +5,6 @@ PROCESS-NAME,Anki
 
 # News
 DOMAIN-SUFFIX,ft.com
+
+
+DOMAIN-SUFFIX,1point3acres.com
