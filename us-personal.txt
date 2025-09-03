@@ -8,3 +8,4 @@ DOMAIN-SUFFIX,ft.com
 
 
 DOMAIN-SUFFIX,1point3acres.com
+DOMAIN-SUFFIX,forvo.com
