@@ -12,3 +12,4 @@ PROCESS-NAME,Wechat
 PROCESS-NAME,微信
 PROCESS-NAME,Synergy
 PROCESS-NAME,synergy-core
+PROCESS-NAME,VideoFusion-macOS
