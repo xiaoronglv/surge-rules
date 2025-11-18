@@ -2,3 +2,4 @@ DOMAIN-SUFFIX,pearsonpte.com
 DOMAIN-SUFFIX,qq.com
 DOMAIN-SUFFIX,ptexj.com
 DOMAIN-SUFFIX,jianying.com
+DOMAIN-SUFFIX,xiaohongshu.com
