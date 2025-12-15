@@ -1,4 +1,5 @@
 DOMAIN-SUFFIX,forvo.com
+DOMAIN-SUFFIX,scholar.google.com
 
 # Work Apps
 PROCESS-NAME,Day One
