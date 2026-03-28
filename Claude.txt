@@ -1,7 +1,7 @@
 # Claude 
 
 PROCESS-NAME,Claude Helper
-ROCESS-NAME,claude
+PROCESS-NAME,claude
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,claude.com
 DOMAIN-SUFFIX,anthropic.com
