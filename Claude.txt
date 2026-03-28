@@ -5,6 +5,6 @@ ROCESS-NAME,claude
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,claude.com
 DOMAIN-SUFFIX,anthropic.com
-DOMAIN-KEYWORD,claude
+DOMAIN-SUFFIX,bridge.claudeusercontent.com
 
 DOMAIN-SUFFIX,datadoghq.com
