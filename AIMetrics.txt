@@ -1,0 +1,2 @@
+DOMAIN-SUFFIX,browser-intake-us5-datadoghq.com
+DOMAIN-SUFFIX,datadoghq.com
