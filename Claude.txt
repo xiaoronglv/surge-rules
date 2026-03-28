@@ -1,0 +1,4 @@
+# Claude 
+
+PROCESS-NAME,Claude Helper
+DOMAIN-SUFFIX,claude.ai
