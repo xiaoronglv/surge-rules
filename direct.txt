@@ -3,3 +3,13 @@ DOMAIN-SUFFIX,qq.com
 DOMAIN-SUFFIX,ptexj.com
 DOMAIN-SUFFIX,jianying.com
 DOMAIN-SUFFIX,xiaohongshu.com
+
+PROCESS-NAME, 企业微信 Helper
+PROCESS-NAME, 企业微信
+PROCESS-NAME, WeCom
+
+PROCESS-NAME, 微信
+PROCESS-NAME, WeChat
+
+PROCESS-NAME, 腾讯会议
+PROCESS-NAME, TencentMeeting
