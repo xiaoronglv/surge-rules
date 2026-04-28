@@ -17,3 +17,4 @@ IP-ASN,20473,no-resolve
 
 PROCESS-NAME,ChatGPT
 PROCESS-NAME,codex
+PROCESS-NAME,Codex Helper
