@@ -19,3 +19,4 @@ PROCESS-NAME,ChatGPT
 PROCESS-NAME,ChatGPTHelper
 PROCESS-NAME,codex
 PROCESS-NAME,Codex Helper
+PROCESS-NAME,codex-aarch64-apple-darwin
